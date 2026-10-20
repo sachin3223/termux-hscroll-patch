@@ -1,5 +1,5 @@
 # Termux — Horizontal Scroll, Diagonal Scroll & Enter Key Patch
-
+for fork
 Fork of [termux-app](https://github.com/termux/termux-app) with three patches for a better touch experience on Android.
 
 ## What's patched
